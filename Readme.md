@@ -34,5 +34,28 @@ Caso não queira ver os resultados dos vetores ordenados
 foo@bar:~$ make run_$(number)
 ```
 # Selection Sort
-
+## Algoritimo
   O algoritimo usado teve por base a substituição dos valores assim que eles fosse identificados como menores que o outro, assim como mostra a ideia da figura abaixo:
+  
+A imagem mostra o processo do algoritimo:
+
+![Imagem1](/Sel_sort/How_It_Works.png)
+
+### Compile and Run
+Requires [make](https://www.gnu.org/software/make/)
+Inside the path
+```console
+foo@bar:~$ make
+```
+Limpe os arquivos desnecessários
+```console
+foo@bar:~$ make clean
+```
+Caso queira ver os resultados dos vetores ordenados
+```console
+foo@bar:~$ make run_exibe_$(number)
+```
+Caso não queira ver os resultados dos vetores ordenados
+```console
+foo@bar:~$ make run_$(number)
+```
