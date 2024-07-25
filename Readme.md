@@ -4,7 +4,7 @@
 
 * [Insertion Sort](https://github.com/LeomaxFilho/Exercicio-Algoritmos-de-Ordenacao/tree/main?tab=readme-ov-file#insertion-sort)
 
-* [Selection Sort](https://github.com/LeomaxFilho/Exercicio-Algoritmos-de-Ordenacao/edit/main/Readme.md#selection-sort)
+* [Selection Sort](https://github.com/LeomaxFilho/Exercicio-Algoritmos-de-Ordenacao/tree/main?tab=readme-ov-file#selection-sort)
 </details>
 
 # Insertion Sort
